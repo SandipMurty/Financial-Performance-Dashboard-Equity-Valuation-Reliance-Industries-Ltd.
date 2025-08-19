@@ -1,0 +1,2 @@
+# Financial-Performance-Dashboard-Equity-Valuation-Reliance-Industries-Ltd.
+Financial Modelling &amp; Equity Valuation of Reliance Industries Ltd. (2021–2025) This repository contains my project on financial performance analysis, dashboard reporting, and equity valuation (DCF &amp; Comparables) of Reliance Industries Ltd. It covers historical financials, ratio analysis, WACC, ROIC, DCF valuation, and risk analysis.
